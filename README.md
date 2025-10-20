@@ -2,7 +2,7 @@
 
 A simple yet powerful **Double Entry Accounting System** built using **PHP**, **MySQL**, **HTML**, **CSS**, **JavaScript**, **jQuery**, and **Bootstrap**.  
 
-Developed by **Sutlej Solutions**, this project aims to streamline everyday accounting needs with simplicity and reliability.
+Developed by **BixiSoft Solutions pvt ltd**, this project aims to streamline everyday accounting needs with simplicity and reliability.
 
 > ⚠️ *PHPLedger is open-source and free to use. However, no free support or customization help is provided.*
 
